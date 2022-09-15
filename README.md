@@ -25,6 +25,7 @@ seguintes parâmetros:
 ### Saida: 
 #### Correspondência de 75%, gorjeta de R$ 5,00.
 
+## TODO:
 ### Sugestão
 
 Se você já conseguiu concluir o desafio e gostaria de ir além, fica aqui uma sugestão para
